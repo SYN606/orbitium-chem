@@ -8,9 +8,6 @@ export default function Navbar() {
 
     const links = [
         { name: "Home", path: "/" },
-        { name: "Elements", path: "/elements" },
-        { name: "Compare", path: "/compare" },
-        { name: "Quiz", path: "/quiz" },
         { name: "About", path: "/about" }
     ];
 
